@@ -1,7 +1,7 @@
 # 📊 Dashboard Realisasi Pelatihan 2026
 **BBPVP Bekasi** — Sistem pemantauan realisasi peserta pelatihan berbasis web, terhubung langsung ke Google Sheets secara *live*.
 
-🔗 **Live Demo:** [Klik di sini untuk membuka Dashboard](https://syaoqi24.github.io/dashboar-pelatihan-2026/)
+🔗 **Live Demo:** [Klik di sini untuk membuka Dashboard](https://syaoqi24.github.io/dashboard-pelatihan-2026/)
 
 ---
 
