@@ -76,8 +76,8 @@ Dashboard membaca kolom dengan nama header berikut (baris pertama sheet):
 2. Buka file `index.html` langsung di browser
 
 ```bash
-git clone https://github.com/Syaoqi24/dashboar-pelatihan-2026.git
-cd dashboar-pelatihan-2026
+git clone https://github.com/Syaoqi24/dashboard-pelatihan-2026.git
+cd dashboard-pelatihan-2026
 # Buka index.html di browser
 ```
 
@@ -86,7 +86,7 @@ cd dashboar-pelatihan-2026
 2. Navigasi ke **Pages**
 3. Pada *Source*, pilih **Branch: main** → folder **/ (root)**
 4. Klik **Save**
-5. Dashboard akan dapat diakses di: `https://syaoqi24.github.io/dashboar-pelatihan-2026/`
+5. Dashboard akan dapat diakses di: `https://Syaoqi24.github.io/dashboard-pelatihan-2026/`
 
 ---
 
