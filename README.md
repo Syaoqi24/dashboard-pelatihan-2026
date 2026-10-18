@@ -3,7 +3,7 @@
 
 🔗 **Live Demo(HTML):** [Klik di sini untuk membuka Dashboard](https://syaoqi24.github.io/dashboard-pelatihan-2026/)
 
-🔗 **Live Demo:** [Loker Studio Report](https://datastudio.google.com/u/0/reporting/5eddaf2c-69ea-4a2d-b440-db576c924eac/page/0OSwF)
+🔗 **Live Demo:** [Loker Studio Report](https://datastudio.google.com/reporting/5eddaf2c-69ea-4a2d-b440-db576c924eac)
 
 ---
 
